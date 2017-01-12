@@ -1,0 +1,9 @@
+mysql -u root -p < populateNominee1481576904.42.sql
+mysql -u root -p < populateParty.sql
+mysql -u root -p < populateCand_CN_Aff.sql
+mysql -u root -p < populateBallot1481581950.06.sql
+mysql -u root -p < populateElect.sql
+mysql -u root -p < populateCampaignFINAL.sql
+mysql -u root -p < populateWinners.sql
+mysql -u root -p < populatePresident1481627445.22.sql
+mysql -u root -p < populateVices.sql
